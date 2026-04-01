@@ -1,5 +1,5 @@
 # Master-Thesis
-# Treatment Efficacy Score (TES) – Data Augmentation Analysis
+# Augmentation of medical data on response to cancer treatment in small clinical trials
 
 This repository contains R code used in a master's thesis to analyze the effect of various data augmentation methods on the stability and clinical correlation of the **Treatment Efficacy Score (TES)** in the context of breast cancer trials.
 
