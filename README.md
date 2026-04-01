@@ -22,8 +22,8 @@ DaneTestowe/
     │   ├── augment_data_BootSwLN.R    # Augmentation: Bootstrap + Log-Normal noise
     │   ├── augment_data_random.R      # Augmentation: random sampling
     │   ├── augment_data_smote.R       # Augmentation: SMOTE
-    │   ├── generate_cox_data.R        # Data generation (Cox model)
-    │   ├── generate_smoteCox_data.R   # Data generation (SMOTE + Cox)
+    │   ├── generate_cox_data.R        # Augmentation: (Cox model)
+    │   ├── generate_smoteCox_data.R   # Augmentation: (SMOTE + Cox)
     │   ├── generate_smote_data_2Ev.R
     │   ├── generate_smoteCox_data2Ev.R
     │   ├── calculate_rmst_single.R    # RMST computation for a single case
